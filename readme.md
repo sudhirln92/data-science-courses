@@ -62,4 +62,4 @@ Various youtube resource
 | Course Name | Link | Repository | Notes|
 | ------ | ------ | ------ |  ------ |
 | The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert| [Udemy](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)| NA  | NA |
-| MongoDB with Python Crash Course| [youtube](https://www.youtube.com/watch?v=E-1xI85Zog8)| [mongo](https://training.talkpython.fm/courses/explore_mongodb_for_python_developers_course/mongodb-for-python-for-developers-featuring-orm-odm-mongoengine)  | NA |
+| MongoDB with Python Crash Course| [youtube](https://www.youtube.com/watch?v=E-1xI85Zog8)| [talkpython](https://training.talkpython.fm/courses/explore_mongodb_for_python_developers_course/mongodb-for-python-for-developers-featuring-orm-odm-mongoengine)  | NA |
