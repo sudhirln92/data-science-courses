@@ -58,3 +58,8 @@ Various youtube resource
 |  Bayesian Statistics Made Simple -Scipy 2019 by Allen Downey | [youtube](https://www.youtube.com/watch?v=-X0BiV9n_fQ) |  [git](https://github.com/AllenDowney/BayesMadeSimple)|
 
 
+## Data Base
+| Course Name | Link | Repository | Notes|
+| ------ | ------ | ------ |  ------ |
+| The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert| [Udemy](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)| NA  | NA |
+| MongoDB with Python Crash Course| [youtube](https://www.youtube.com/watch?v=E-1xI85Zog8)| [mongo](https://training.talkpython.fm/courses/explore_mongodb_for_python_developers_course/mongodb-for-python-for-developers-featuring-orm-odm-mongoengine)  | NA |
