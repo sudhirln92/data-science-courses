@@ -22,6 +22,9 @@ Various
 | ------ | ------ | ------ | ------ |
 | Python OOP Tutorial | [youtube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)|Corey Schafer | NA| 
 | Flask Workshop - PyCon 2015 | [youtube](https://www.youtube.com/watch?v=DIcpEg77gdE)| Miguel Grinberg | [git](https://github.com/miguelgrinberg/flask-pycon2015)|
+| Demystifying the Patch Function - PyCon 2018 | [youtube](https://www.youtube.com/watch?v=ww1UsGZV8fQ)| Lisa Roach | NA|
+| Unit Tests and Test Doubles like Mocks, Stubs & Fakes | [youtube](https://www.youtube.com/watch?v=NPp2pvhGbkM&list=LL&index=5)|  CodesBay | [git](https://github.com/CodesBay) |
+
 
 
 ## Machine Learning
@@ -38,7 +41,7 @@ Various youtube resource
 | Machine Learning at University Birtish Columbia CPSC-340 | [youtube](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)|  Nando de Freitas | [notes](https://www.cs.ubc.ca/~nando/340-2012/lectures.php)|
 | Machine Learning at University Birtish Columbia CPSC-540 | [youtube](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)|  Nando de Freitas | [notes](https://www.cs.ubc.ca/~nando/340-2012/lectures.php) |
 | Time Series Analysis with Python Intermediate | [youtube](https://www.youtube.com/watch?v=JNfxr4BQrLk)|  Aileen Nielsen | [git](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython) |
-| Applied Time Series Econometrics in Python and R | PyData San Francisco 2016 | [youtube](https://www.youtube.com/watch?v=tJ-O3hk1vRw)|  Jeffrey Yau | NA |
+| Applied Time Series Econometrics in Python and R | [youtube](https://www.youtube.com/watch?v=tJ-O3hk1vRw)|  Jeffrey Yau | NA |
 
 
 ## Statistics and Probability
