@@ -44,12 +44,13 @@ Various youtube resource
 | Machine Learning at University Birtish Columbia CPSC-340 | [youtube](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)|  Nando de Freitas | [notes](https://www.cs.ubc.ca/~nando/340-2012/lectures.php)|
 | Machine Learning at University Birtish Columbia CPSC-540 | [youtube](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)|  Nando de Freitas | [notes](https://www.cs.ubc.ca/~nando/340-2012/lectures.php) |
 | Time Series Analysis with Python Intermediate | [youtube](https://www.youtube.com/watch?v=JNfxr4BQrLk)|  Aileen Nielsen | [git](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython) |
-| Applied Time Series Econometrics in Python and R | [youtube](https://www.youtube.com/watch?v=tJ-O3hk1vRw)|  Jeffrey Yau | NA |
+| Applied Time Series Econometrics in Python and R | [youtube](https://www.youtube.com/watch?v=tJ-O3hk1vRw)|  Jeffrey Yau | [git](https://github.com/SimiY/pydata-sf-2016-arima-tutorial) |
 
 ## Statistics and Probability
 
 | Course/Book Name | Link | Repository |
 | ------ | ------ | ------ |
+| Statistics 110: Probability, Harvard University by Joe Blitzstein | [youtube](https://youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) |  [Harvard](https://projects.iq.harvard.edu/stat110/home)|
 | Think stats2 | [green tea press](https://greenteapress.com/wp/) |  [git](https://github.com/AllenDowney/ThinkStats2)|
 | Think bayes2 | [green tea press](https://greenteapress.com/wp/) |  [git](https://github.com/AllenDowney/ThinkBayes2)|
 | Statistics Probability | [khan academy](https://www.khanacademy.org/math/statistics-probability) | Na |
