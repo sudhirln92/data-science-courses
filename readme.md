@@ -1,6 +1,6 @@
 # Data Science Courses and Resource Reference
 
-I am working as machine learning engineer. I took various machine learning courses from a different resource available on the net. And also read a couple of books. I also made notes of the concept and so that it help to revisit those concepts.
+I am working as data scientist. I took various machine learning courses from a different resource available on the net. And also read a couple of books. I also made notes of the concept and so that it help to revisit those concepts.
 
 
 ## R
