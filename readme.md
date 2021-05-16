@@ -46,6 +46,12 @@ Various youtube resource
 | Time Series Analysis with Python Intermediate | [youtube](https://www.youtube.com/watch?v=JNfxr4BQrLk)|  Aileen Nielsen | [git](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython) |
 | Applied Time Series Econometrics in Python and R | [youtube](https://www.youtube.com/watch?v=tJ-O3hk1vRw)|  Jeffrey Yau | [git](https://github.com/SimiY/pydata-sf-2016-arima-tutorial) |
 
+## Deep Learning
+Here is few resource for learning deep learning.
+| Course Name | Link | Repository | Notes|
+| ------ | ------ | ------ |  ------ |
+| Introduction To Machine Learning by Duke University | [coursera certificate](https://coursera.org/share/228c6d30d86349bab114fb499cea4370)| NA  | NA |
+
 ## Statistics and Probability
 
 | Course/Book Name | Link | Repository |
