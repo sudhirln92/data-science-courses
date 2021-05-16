@@ -34,7 +34,6 @@ Here is few resource for learning machine learning.
 | Machine Learning by Andrew Ng| [coursera](https://www.coursera.org/learn/machine-learning)| NA  | NA |
 | Python for Data Science and Machine Learning Bootcamp  | [Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | NA| [notes](https://github.com/sudhirln92/data-science-courses/tree/master/Machine_Learning_Bootcamp)|
 | Machine Learning A-Z™: Hands-On Python & R In Data Science | [Udemy](https://www.udemy.com/machinelearning/) |[drive](https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d)|[notes](https://github.com/sudhirln92/data-science-courses/tree/master/Machine_Learning_A_Z)|
-| Deep Learning A-Z™: Hands-On Artificial Neural Networks | [Udemy](https://www.udemy.com/deeplearning/) |[super ds](https://www.superdatascience.com/pages/deep-learning)|[notes](https://github.com/sudhirln92/data-science-courses/tree/master/Deep_Learning_A_Z)|
 | Hands-on Machine Learning with Scikit-Learn and TensorFlow by Aurélien Geron | [oreilly](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/) |[git](https://github.com/ageron/handson-ml)|[notes](https://github.com/sudhirln92/data-science-courses/tree/master/Deep_Learning_A_Z)|
 
 
@@ -50,7 +49,8 @@ Various youtube resource
 Here is few resource for learning deep learning.
 | Course Name | Link | Repository | Notes|
 | ------ | ------ | ------ |  ------ |
-| Introduction To Machine Learning by Duke University | [coursera certificate](https://coursera.org/share/228c6d30d86349bab114fb499cea4370)| NA  | NA |
+| Deep Learning A-Z™: Hands-On Artificial Neural Networks | [Udemy](https://www.udemy.com/deeplearning/) |[super ds](https://www.superdatascience.com/pages/deep-learning)|[notes](https://github.com/sudhirln92/data-science-courses/tree/master/Deep_Learning_A_Z)|
+| Introduction To Machine Learning by Duke University | [coursera certificate](https://coursera.org/share/228c6d30d86349bab114fb499cea4370)| NA  | [notes](https://github.com/sudhirln92/data-science-courses/tree/master/Duke_DL) |
 
 ## Statistics and Probability
 
@@ -70,3 +70,5 @@ Here is few resource for learning deep learning.
 | ------ | ------ | ------ |  ------ |
 | The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert| [Udemy](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)| NA  | NA |
 | MongoDB with Python Crash Course| [youtube](https://www.youtube.com/watch?v=E-1xI85Zog8)| [talkpython](https://training.talkpython.fm/courses/explore_mongodb_for_python_developers_course/mongodb-for-python-for-developers-featuring-orm-odm-mongoengine)  | NA |
+| SQL Tutorial - Window Functions | [youtube](https://www.youtube.com/watch?v=H6OTMoXjNiM&list=PLgR-BOYibnN0QqIPFbMlS01bw8x9g07Ll) | NA  | NA |
+| MASTER CODING FOR DATA SCIENCE | [youtube](https://www.stratascratch.com/)| stratascratch  | QnA |
