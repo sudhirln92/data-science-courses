@@ -17,7 +17,7 @@ Here is few resource for learning python.
 | Complete Python Bootcamp: Go from zero to hero in Python | [Udemy](https://www.udemy.com/course/complete-python-bootcamp/) | [github](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)| [notes](https://github.com/sudhirln92/data-science-courses/tree/master/Python_Bootcamp)|
 | Python for Data Structures, Algorithms | [Udemy](https://www.udemy.com/course/complete-python-bootcamp/) |[github](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)|[notes](https://github.com/sudhirln92/data-science-courses/tree/master/Data_Structures_And_Algorithms)|
 
-Various  
+Various Youtube resouses   
 | Course Name | Link | Tutor | Notes |
 | ------ | ------ | ------ | ------ |
 | Python OOP Tutorial | [youtube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)|Corey Schafer | NA| 
@@ -51,6 +51,9 @@ Here is few resource for learning deep learning.
 | ------ | ------ | ------ |  ------ |
 | Deep Learning A-Z™: Hands-On Artificial Neural Networks | [Udemy](https://www.udemy.com/deeplearning/) |[super ds](https://www.superdatascience.com/pages/deep-learning)|[notes](https://github.com/sudhirln92/data-science-courses/tree/master/Deep_Learning_A_Z)|
 | Introduction To Machine Learning by Duke University | [coursera certificate](https://coursera.org/share/228c6d30d86349bab114fb499cea4370)| NA  | [notes](https://github.com/sudhirln92/data-science-courses/tree/master/Duke_DL) |
+| Practical Deep Learning with PyTorch | [udemy](https://www.udemy.com/course/practical-deep-learning-with-pytorch/)| NA  | NA |
+| PComplete Guide to TensorFlow for Deep Learning with Python
+ | [udemy](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/)| NA  | NA |
 
 ## Statistics and Probability
 
