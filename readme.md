@@ -52,9 +52,11 @@ Here is few resource for learning deep learning.
 | Deep Learning A-Z™: Hands-On Artificial Neural Networks | [Udemy](https://www.udemy.com/deeplearning/) |[super ds](https://www.superdatascience.com/pages/deep-learning)|[notes](https://github.com/sudhirln92/data-science-courses/tree/master/Deep_Learning_A_Z)|
 | Introduction To Machine Learning by Duke University | [coursera certificate](https://coursera.org/share/228c6d30d86349bab114fb499cea4370)| NA  | [notes](https://github.com/sudhirln92/data-science-courses/tree/master/Duke_DL) |
 | Practical Deep Learning with PyTorch | [udemy](https://www.udemy.com/course/practical-deep-learning-with-pytorch/)| NA  | NA |
-| PComplete Guide to TensorFlow for Deep Learning with Python
- | [udemy](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/)| NA  | NA |
+| Complete Guide to TensorFlow for Deep Learning with Python | [udemy](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/)| NA  | NA |
+| PyTorch 101: An Applied Tutorial | [youtube](https://youtube.com/playlist?list=PL98nY_tJQXZln8spB5uTZdKN08mYGkOf2)| NA  | NA |
+| Deep Learning With PyTorch - Full Course  | [youtube](https://youtu.be/c36lUUr864M)| [git-python-engineer](https://github.com/python-engineer/pytorchTutorial)  | NA |
 
+ 
 ## Statistics and Probability
 
 | Course/Book Name | Link | Repository |
