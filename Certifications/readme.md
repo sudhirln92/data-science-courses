@@ -6,4 +6,4 @@ Certifications
 | Kore.AI Chabot | Basic and Advanced Kore.AI Chatbot developer Certificate | Kore.AI |  [kore.ai](https://kore.ai/)| 2021-2023 |
 
 
-[GCP](gcp.png)
+![GCP](gcp.png)
