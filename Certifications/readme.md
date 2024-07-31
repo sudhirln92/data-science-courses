@@ -10,7 +10,7 @@
 
 <img src="https://github.com/sudhirln92/data-science-courses/blob/master/Certifications/Kore.AI-Adavanced-Training-2021.jpg?raw=true" alt="Kore.AI" width="400" height="250"/>
 
-# Internal Certifications
+# Internal Certificates
 | Certifications | Description| Institute | Year|
 | ------ | ------ | ------ |----- |
 | AWS Cloud Practioner Essentials | AWS Cloud Basic Training | AWS | 2023 |
@@ -26,3 +26,9 @@
 | Machine Learning on AWS | Sagemaker Training | AWS | 2023 |
 | Mongo DB | Mongo DB Training | Atos | 2021 |
 | Security Essentials on AWS | AWS Training | AWS | 2023 |
+
+# Badges
+* [Credly](https://www.credly.com/users/sudhirln92)
+* [GCP](https://www.cloudskillsboost.google/public_profiles/f6562b3c-e66c-4321-bd35-0dcc49af8956)
+* [AWS]()
+* [Azure]()
