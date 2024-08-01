@@ -30,6 +30,7 @@
 # Badges
 <img src="https://github.com/sudhirln92/data-science-courses/blob/master/Certifications/aws-cloud-quest-cloud-practitioner.png?raw=true" alt="AWS Cloud Quest" width="150" height="150"/>
 <img src="https://github.com/sudhirln92/data-science-courses/blob/master/Certifications/aws-knowledge-cloud-essentials.png?raw=true" alt="AWS Cloud Quest" width="150" height="150"/>
+
 * [Credly](https://www.credly.com/users/sudhirln92)
 * [GCP](https://www.cloudskillsboost.google/public_profiles/f6562b3c-e66c-4321-bd35-0dcc49af8956)
 * [AWS]()
